@@ -6,7 +6,7 @@
         "default_title": "Close all Stack Overflow tabs"
     },
     "permissions": [
-        "tabs", "<all_urls>"
+        "tabs",
     ],
     "background": {
         "scripts": ["background.js"]
